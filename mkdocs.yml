@@ -33,3 +33,4 @@ nav: # 页面导航
   - SSH免密登录: index.md
   - Linux常用命令: commands.md
   - WebServer安装和配置: webserver.md
+  - jenkins部署: jenkins.md
